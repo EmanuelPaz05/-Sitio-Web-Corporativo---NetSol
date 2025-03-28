@@ -1,7 +1,11 @@
 🌐 Sitio Web Corporativo - NetSol
 Página web oficial de NetSol, empresa de soluciones tecnológicas.
 
-📌 Tecnologías: React, Vite, Tailwind CSS
+📌 Tecnologías: 
+Next.js
+React
+Bootstrap
+
 <img src="https://github.com/user-attachments/assets/f7469092-ae20-4cb4-9564-37a3edb94c45" width="800">
 
 ✨ Características
